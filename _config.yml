@@ -1,0 +1,12 @@
+title: Demo 4
+baseurl: ""
+url: ""
+
+# Build settings
+markdown: kramdown
+theme: minima
+gems:
+  - jekyll-feed
+exclude:
+  - Gemfile
+  - Gemfile.lock
